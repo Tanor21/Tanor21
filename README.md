@@ -16,7 +16,7 @@ Technologies :
 
 📫 How to reach me: 
 - cisseousmanetanor@gmail.com
-- https://www.linkedin.com/in/ousmane-tanor-cisse-36340712b/
+- https://www.linkedin.com/in/ousmane-t-36340712b/
 <!--
 **Tanor21/Tanor21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
